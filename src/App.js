@@ -26,7 +26,7 @@ function App() {
 											after:absolute after:-top-[2.8rem] after:-right-2 after:-z-20 after:content-[''] after:h-[11.1rem] after:w-[11.1rem] after:rounded
 											after:bg-green4 after:rotate-45">
 										<h1 className="text-lg font-semibold text-center text-white">SCHEDULE A DEMO</h1>
-										<h3 className="mb-1 text-sm font-medium text-center text-gray-100">Learn More About FloQast</h3>
+										<h3 className="mb-1 text-sm font-medium text-center text-gray-100">Learn More About FloQast.</h3>
 									</div>
 								</div>
 								<div className="py-2 pl-14 pr-4 bg-white rounded-tr rounded-br">
